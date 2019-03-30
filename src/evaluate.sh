@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0 python main.py --resume checkpoint/best_model_1100.ckpt --evaluate 1

@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0 python main.py --log_dir logs --evaluate 0 --dataset /oriong4/projects/jingweih/scannet-chunks
