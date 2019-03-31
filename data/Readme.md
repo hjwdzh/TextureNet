@@ -1,6 +1,6 @@
 # Data Preparation
 ## Guidance
-Before doing these steps, make sure to run everything in screen/tmux mode since they takes a long time. Additionally, it will consume a lot of disc space (roughly 6~8 TB). Also, please run it on a multicore CPU. It may take more than one day to process all data with a 40-core CPU. If you don't wish to process data by your own, please use our processed dataset from [**this link**](http://download.cs.stanford.edu/orion/texturenet/scannet-chunks.zip) (roughly 2 TB). After finish the data processing, please refer to [**src**](https://github.com/hjwdzh/TextureNet/raw/master/evaluate/) directory for training and testing.
+Before doing these steps, make sure to run everything in screen/tmux mode since they takes a long time. Additionally, it will consume a lot of disc space (roughly 4 TB). Also, please run it on a multicore CPU. It may take more than one day to process all data with a 40-core CPU. If you don't wish to process data by your own, please use our processed dataset from [**this link**](http://download.cs.stanford.edu/orion/texturenet/scannet-chunks.zip) (roughly 600 GB). After finish the data processing, please refer to [**src**](https://github.com/hjwdzh/TextureNet/raw/master/evaluate/) directory for training and testing.
 
 ## Download and Split Data
 Download Scannet to the your preferred data folder (called DATASET here) by
