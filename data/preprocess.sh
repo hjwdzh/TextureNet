@@ -1,3 +1,11 @@
+# gen scripts
+python gen_sens.py
+python gen_objs.py
+python gen_textiles.py
+python gen_labels.py
+python gen_colors.py
+python gen_chunks.py
+
 echo 'Gen Frames'
 python run_parallel.py gen_sens.sh
 
