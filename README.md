@@ -25,10 +25,10 @@ Please refer to [**evaluate**](https://github.com/hjwdzh/TextureNet/raw/master/e
 
 **IMPORTANT**: If you use this code please cite the following in any resulting publication:
 ```
-@article{huang2018texturenet,
-  title={TextureNet: Consistent Local Parametrizations for Learning from High-Resolution Signals on Meshes},
-  author={Huang, Jingwei and Zhang, Haotian and Yi, Li and Funkhouser, Thomas and Nie{\ss}ner, Matthias and Guibas, Leonidas},
-  journal={arXiv preprint arXiv:1812.00020},
-  year={2018}
-}
-```
+@inproceedings{huang2019texturenet,
+  title={Texturenet: Consistent local parametrizations for learning from high-resolution signals on meshes},
+  author={Huang, Jingwei and Zhang, Haotian and Yi, Li and Funkhouser, Thomas and Nie{\ss}ner, Matthias and Guibas, Leonidas J},
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+  pages={4440--4449},
+  year={2019}
+}```
