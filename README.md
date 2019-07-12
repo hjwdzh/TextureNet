@@ -31,4 +31,5 @@ Please refer to [**evaluate**](https://github.com/hjwdzh/TextureNet/raw/master/e
   booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
   pages={4440--4449},
   year={2019}
-}```
+}
+```
